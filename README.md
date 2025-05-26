@@ -1,7 +1,5 @@
 # Tarea 3 de Algoritmos Exactos y Metaheurísticas
----
 Autoras: Sofia Belmar y Loreto Ñancucheo
----
 ## Alcance
 Este proyecto aborda la resolución de problemas de optimización multimodal continua mediante un algoritmo metaheurístico basado en poblaciones: Particle Swarm Optimization (PSO).
 
