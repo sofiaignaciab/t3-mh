@@ -5,9 +5,9 @@ import pandas as pd
 
 param_configs_pso = [
     {'swarm_size': 20, 'w': 0.7, 'c1': 1.5, 'c2': 1.5},
-    {'swarm_size': 20, 'w': 0.9, 'c1': 2.0, 'c2': 2.0},
+    {'swarm_size': 50, 'w': 0.5, 'c1': 1.5, 'c2': 1.5},
     {'swarm_size': 50, 'w': 0.7, 'c1': 1.5, 'c2': 1.5},
-    {'swarm_size': 50, 'w': 0.9, 'c1': 2.0, 'c2': 2.0},
+    {'swarm_size': 20, 'w': 0.5, 'c1': 2.0, 'c2': 1.5},
 ]
 
 functions = {
